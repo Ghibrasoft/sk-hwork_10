@@ -1,0 +1,24 @@
+.home-div {
+  flex: 1 1 0%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.welcome-div {
+  position: relative;
+  padding: 20px;
+}
+.welcome-div > h1 {
+  font-size: xxx-large;
+}
+.welcome-div > p {
+  font-style: italic;
+}
+
+.name {
+  color: #fff;
+  background-color: #8b5cf6;
+  border-radius: 10px;
+  padding: 5px 10px;
+}
